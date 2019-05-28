@@ -13,5 +13,6 @@ If you need to uncomment, select lines and press `\w`.
 - C++(.cpp)
 - C#(.cs)
 - Java(.java)
+- Javascript(.js)
 - Python(.py)
 - Vim(.vim)

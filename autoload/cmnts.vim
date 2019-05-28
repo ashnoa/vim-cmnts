@@ -16,6 +16,9 @@ function! cmnts#JudgeFileType()
     elseif l:filetype ==# 'java'
         let s:cmnts_comment_delimiter = '//'
 
+    elseif l:filetype ==# 'js'
+        let s:cmnts_comment_delimiter = '//'
+
     elseif l:filetype ==# 'py'
         let s:cmnts_comment_delimiter = '#'
 
